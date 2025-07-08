@@ -1,7 +1,7 @@
 # Hi there, I am  
-**Seu Nome Aqui** 👋
+**Guilherme da Silva Cordeiro** 👋
 
-I'm currently studying Computer Science. I'm really interested in learn Back-end development.
+I'm currently studying Computer Science. I'm really interested in learn Deep Learning development.
 
 ## 🚀 Languages and technologies I'm learning
 <p>
