@@ -13,4 +13,4 @@ I'm currently studying Computer Science. I'm really interested in learn Deep Lea
 </p>
 
 ## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-digitron&layout=compact&theme=tokyonight)
