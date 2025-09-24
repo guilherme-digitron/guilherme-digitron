@@ -1,7 +1,7 @@
 # Hi there, I am  
 **Guilherme da Silva Cordeiro** 👋
 
-I'm currently studying Computer Science. I'm really interested in learn Deep Learning development.
+I'm currently studying Computer Science. I'm really interested in cibersecurity development.
 
 ## 🚀 Languages and technologies I'm learning
 <p>
