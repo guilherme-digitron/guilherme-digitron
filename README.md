@@ -1,16 +1,25 @@
-# Hi there, I am  
-**Guilherme da Silva Cordeiro** 👋
+# Olá, eu sou o Guilherme da Silva Cordeiro 👋
 
-I'm currently studying Computer Science. I'm really interested in cibersecurity development.
-
-## 🚀 Languages and technologies I'm learning
-<p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<p align="left">
+  Estudante de programação e entusiasta de tecnologia, com foco em Cibersegurança. Meu hobby é desenvolvimento de jogos, as vezes tento dar uma de hacker ético.
 </p>
 
-## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-digitron&layout=compact)
+---
+
+### 💻 Tecnologias e Linguagens
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker Language"/>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilherme-digitron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-digitron&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
